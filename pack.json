@@ -1,0 +1,10 @@
+{
+  "name": "P5 Beneath the Mask",
+  "description": "Persona 5 instrumental track Beneath the Mask as menu music for steam deck.",
+  "author": "hypeskyx",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
